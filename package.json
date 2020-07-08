@@ -23,6 +23,7 @@
     "@hapi/ammo": "^5.0.1",
     "@hapi/hapi": "^19.1.1",
     "@hapi/subtext": "^7.0.3",
+    "stripe": "^8.69.0",
     "uuid": "^7.0.3"
   }
 }
